@@ -1,5 +1,6 @@
 ﻿# Build
 bin/
+obj/
 
 # JetBrains
 .idea/
